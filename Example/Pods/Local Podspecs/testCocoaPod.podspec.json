@@ -1,0 +1,22 @@
+{
+  "name": "testCocoaPod",
+  "version": "0.1.0",
+  "summary": "A short description of testCocoaPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alotofleo2/testCocoaPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alotofleo2": "hzft@tairanchina.com"
+  },
+  "source": {
+    "git": "https://github.com/alotofleo2/testCocoaPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testCocoaPod/Classes/**/*"
+}
